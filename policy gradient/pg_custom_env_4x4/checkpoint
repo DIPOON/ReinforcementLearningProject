@@ -1,0 +1,3 @@
+model_checkpoint_path: "pg_custom_env_4x4_best.ckpt"
+all_model_checkpoint_paths: "pg_custom_env_4x4.ckpt"
+all_model_checkpoint_paths: "pg_custom_env_4x4_best.ckpt"
